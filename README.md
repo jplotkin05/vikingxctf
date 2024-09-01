@@ -1,5 +1,8 @@
 # vikingxctf
 
+## Notice to the reader
+If you decide to view the code, you will see that query parameters are listed as "REDACTED." If you would like infomation about the database design and architecture, please reach out to me for additional details.
+
 ## Purpose
 This was one of my very first projects that I developed independently back in 2021 (Looks very messy under the hood). I developed this site to allow athletes from my high school to track their cross country and track performances and progress. 
 ## What does it do?
