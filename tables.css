@@ -1,0 +1,50 @@
+table{
+	overflow-x:auto;
+}
+th{
+	background-color:#404040;
+	color:white;
+	/* padding:8px; */
+}
+
+td{
+	
+	
+	color:black;
+	text-decoration: none;
+	color:black;
+	
+
+}
+tr:nth-child(even) {background: #9BDDFF}
+tr:nth-child(odd) {background: white}
+td a{
+	text-decoration: none;
+	color:black;
+
+}
+td a:hover{
+	color:red;
+	background-color:#404040;
+	margin:none;
+}
+
+h5 a{
+	text-decoration: none;
+	color:white;
+
+}
+
+h5 a:hover{
+	color:red;
+	background-color:yellow;
+
+	
+}
+
+table, th, td{
+	border:solid 2px black;
+}  
+
+
+
